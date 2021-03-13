@@ -1,1 +1,1 @@
-This is my first webpage for the HY426 course!
+This is my dummy first webpage
